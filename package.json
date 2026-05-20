@@ -1,4 +1,12 @@
 {
+<<<<<<< HEAD
+  "name": "frontend",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix latest run dev",
+    "build": "npm --prefix latest run build",
+    "preview": "npm --prefix latest run preview"
+=======
   "name": "latest",
   "private": true,
   "version": "0.0.0",
@@ -26,5 +34,6 @@
   },
   "overrides": {
     "vite": "npm:rolldown-vite@7.2.5"
+>>>>>>> e4d038ff66a5da492a4bb54cc159fff5b2df4011
   }
 }
